@@ -7,7 +7,7 @@ Hi there! I'm a 42 Berlin student with a passion for programming, problem-solvin
 - **Current Focus:** Working on a project called `minishell` 🚀
 - **Passionate About:** Game development, especially with **C#** and **Unity**
 - **Skills:**
-  - Languages: **C**, **C#**, **C++**
+  - Languages: **C**, **C++**, **C#**
   - RESTful API Development: Built using **.NET**
 
 ## Projects
