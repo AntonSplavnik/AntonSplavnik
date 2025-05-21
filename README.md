@@ -17,11 +17,11 @@ Hi there! I'm a student at 42 Berlin with a passion for **low-level programming*
 ### 🔷 [MiniRT](https://github.com/AntonSplavnik/miniRT) *(in progress)*
 A raytracing engine written in pure C. Working on light simulation, camera movement, and BVH acceleration. A deep dive into graphics rendering and performance.
 
-### 🔹 [Minishell]([https://github.com/your_username/minishell](https://github.com/AntonSplavnik/minishell))
+### 🔹 [Minishell](https://github.com/AntonSplavnik/minishell)
 A Unix-like shell built in C. Supports pipelines, redirection, signals, and environment variables using `fork`, `execve`, and `dup2`.  
 → Built from scratch with a focus on process control and signal handling.
 
-### 🔸 [Philosophers]([https://github.com/your_username/philosophers](https://github.com/AntonSplavnik/philosophers))
+### 🔸 [Philosophers](https://github.com/AntonSplavnik/philosophers)
 A multithreading simulation of the classic Dining Philosophers problem using POSIX threads and mutexes.  
 → Focused on concurrency, timing precision, and avoiding deadlocks.
 
