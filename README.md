@@ -1,39 +1,48 @@
 # Welcome to My GitHub! 👋
 
-Hi there! I'm a 42 Berlin student with a passion for programming, problem-solving, and game development. Below, you'll find a snapshot of my projects and interests.
+Hi there! I'm a student at 42 Berlin with a passion for **low-level programming**, **game development**, and solving tough problems through code.
 
 ## About Me
-- **Location:** Berlin
-- **Current Focus:** Working on a project called `minishell` 🚀
-- **Passionate About:** Game development, especially with **C#** and **Unity**
-- **Skills:**
-  - Languages: **C**, **C++**, **C#**
-  - RESTful API Development: Built using **.NET**
+- 📍 **Based in:** Berlin, Germany  
+- 🎯 **Currently focused on:** Building projects in **C, C++**, and **Unity**
+- 💡 **Interested in:** System-level challenges, real-time rendering, and interactive design
+- 🛠️ **Languages & Tools:**  
+  - **C**, **C++**, **C#**  
+  - **Unity**, **.NET**, **Git**, **POSIX**, **Shell scripting**
 
-## Projects
-### Finished Projects
-#### Library Projects
-- **`libft`** - My custom C library project
-- **`print`** - Advanced print functionality
-- **`get_next_line`** - A file-reading utility project
+---
 
-#### Virtual Machine Projects
-- **`born 2be root`** - A deep dive into system-level programming
+## 📌 Highlighted Projects
 
-#### Visual Projects
-- **`frectol`** - A project exploring fractals and visuals
+### 🔷 [MiniRT](https://github.com/your_username/minirt) *(in progress)*
+A raytracing engine written in pure C. Working on light simulation, camera movement, and BVH acceleration. A deep dive into graphics rendering and performance.
 
-#### Algorithms
-- **`push_swap`** - A sorting algorithm project
+### 🔹 [Minishell](https://github.com/your_username/minishell)
+A Unix-like shell built in C. Supports pipelines, redirection, signals, and environment variables using `fork`, `execve`, and `dup2`.  
+→ Built from scratch with a focus on process control and signal handling.
 
-### Ongoing Projects
-- **`minishell`** - Building a minimalist Unix shell 🐚
+### 🔸 [Philosophers](https://github.com/your_username/philosophers)
+A multithreading simulation of the classic Dining Philosophers problem using POSIX threads and mutexes.  
+→ Focused on concurrency, timing precision, and avoiding deadlocks.
 
-## Game Development
-I'm a passionate game developer who loves experimenting with **Unity** and **C#**. I’ve created a couple of games that you can find right here on my GitHub! 🎮
+---
 
-## Let's Connect
-Feel free to explore my repositories and reach out if you want to collaborate or chat about programming, game development, or cool tech ideas.
+## 📁 Other Notable Projects
 
-Thanks for stopping by! 😊
+- **`libft`** – A custom C standard library  
+- **`push_swap`** – Sorting algorithms with limited operations  
+- **`fractol`** – Visual rendering of fractals in C  
+- **`get_next_line`**, **`ft_printf`** – Fundamental low-level utilities  
+- **`Born2beroot`** – A Linux-based VM hardening and sysadmin project  
 
+---
+
+## 🎮 Game Development
+Outside of system programming, I also design games with **Unity** and **C#**. From small prototypes to gameplay-focused tools, I love combining logic and creativity in interactive projects.
+
+---
+
+## 🤝 Let’s Connect
+Feel free to check out my repositories, star anything you like, or reach out if you're interested in collaborating on projects involving systems, graphics, or gameplay.
+
+Thanks for stopping by! 🚀
