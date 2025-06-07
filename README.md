@@ -7,9 +7,9 @@ Exploring the low-level side of programming and how systems connect — from C-p
 
 Designing small, mechanic-focused games built for responsiveness and iteration.
 
-- [**Cube D**]((https://github.com/AntonSplavnik/How-to-make-a-videogame))  - A minimalist 3D runner. Navigate obstacles, level up, and unlock content in a clean Unity setup.
+- [**Cube D**](https://github.com/AntonSplavnik/How-to-make-a-videogame)  - A minimalist 3D runner. Navigate obstacles, level up, and unlock content in a clean Unity setup.
 
-- [**Kebabb Maker**](https://github.com/AntonSplavnik/kebabb-maker)  - A fast-paced cooking prototype. Assemble orders against the clock using real-time logic and dynamic UI.
+- [**Kebabb Maker**](https://github.com/AntonSplavnik/KebabMaker)  - A fast-paced cooking prototype. Assemble orders against the clock using real-time logic and dynamic UI.
 
 
 
@@ -19,7 +19,7 @@ Digging into system calls, concurrency, and rendering — with a strong focus on
 
 - [**Ray Tracer**](https://github.com/AntonSplavnik/miniRT)  - A simple raytracer written in C. Handles lights, cameras, objects, and acceleration structures.
 
-- [**Mini shell**]((https://github.com/AntonSplavnik/minishell))  - A Unix shell clone built from scratch. Implements piping, redirection, signals, and process management.
+- [**Mini Shell**](https://github.com/AntonSplavnik/minishell)  - A Unix shell clone built from scratch. Implements piping, redirection, signals, and process management.
 
 - [**Philosophers**](https://github.com/AntonSplavnik/philosophers)  - A POSIX-threaded simulation of the dining philosophers problem. Explores mutexes, timing, and deadlock prevention.
 
